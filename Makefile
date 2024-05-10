@@ -2,7 +2,7 @@ PREFIX=/usr
 BINDIR=$(PREFIX)/bin
 
 CC=gcc
-INSTALL=ginstall
+INSTALL=install
 
 all:	simpletun
 distclean:	clean

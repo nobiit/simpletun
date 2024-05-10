@@ -41,7 +41,7 @@
 #define BUFSIZE 2000   
 #define CLIENT 0
 #define SERVER 1
-#define PORT 55555
+#define PORT 1234
 
 int debug;
 char *progname;
